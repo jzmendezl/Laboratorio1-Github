@@ -19,3 +19,6 @@ Group: The Flaming Pink Flamingos
 
 * Santiago Andres Londono Quiroga
   slondonoq@unal.edu.co
+  
+* Sebastian Rodriguez Ardila
+  sebrodriguezar@unal.edu.co
